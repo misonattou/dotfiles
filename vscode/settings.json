@@ -3,6 +3,7 @@
     "telemetry.enableTelemetry": false,
     "workbench.editor.enablePreview": false,
     "workbench.editor.enablePreviewFromQuickOpen": false,
+    "workbench.startupEditor": "newUntitledFile",
     "editor.renderWhitespace": "boundary",
     "editor.detectIndentation": true,
     "editor.tabSize": 2,
