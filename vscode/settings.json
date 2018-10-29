@@ -1,4 +1,6 @@
 {
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
     "editor.renderWhitespace": "boundary",
     "editor.detectIndentation": true,
     "editor.tabSize": 2,
