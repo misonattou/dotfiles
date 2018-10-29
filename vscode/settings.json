@@ -1,4 +1,6 @@
 {
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
     "workbench.editor.enablePreview": false,
     "workbench.editor.enablePreviewFromQuickOpen": false,
     "editor.renderWhitespace": "boundary",
