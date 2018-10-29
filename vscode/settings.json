@@ -4,6 +4,7 @@
     "workbench.editor.enablePreview": false,
     "workbench.editor.enablePreviewFromQuickOpen": false,
     "workbench.startupEditor": "newUntitledFile",
+    "files.eol": "\n",
     "editor.renderWhitespace": "boundary",
     "editor.detectIndentation": true,
     "editor.tabSize": 2,
