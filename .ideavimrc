@@ -1,1 +1,7 @@
+set ignorecase
+set incsearch
+set hlsearch
+set clipboard+=unnamed
+set iminsert=2 " インサートモードから抜けると自動的にIMEをオフにする
+
 inoremap jj <Esc>
